@@ -4,7 +4,7 @@ import numpy as np
 import time
 from datetime import datetime
 
-df = pd.read_csv("final_shortlist.csv")
+df = pd.read_csv("nse_live_snapshot.csv")
 
 final_list = []
 
